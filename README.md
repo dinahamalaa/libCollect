@@ -1,6 +1,6 @@
-# 📚 LibCollect
+# libCollect
 
-LibCollect adalah aplikasi manajemen koleksi buku berbasis web yang dikembangkan menggunakan PHP dan MySQL. Aplikasi ini memungkinkan pengguna untuk menambah, melihat, mengubah, dan menghapus data buku melalui antarmuka yang sederhana dan mudah digunakan.
+libCollect adalah aplikasi manajemen koleksi buku berbasis web yang dikembangkan menggunakan PHP dan MySQL. Aplikasi ini memungkinkan pengguna untuk menambah, melihat, mengubah, dan menghapus data buku melalui antarmuka yang sederhana dan mudah digunakan.
 
 ## Fitur
 
