@@ -39,3 +39,16 @@ Database terdiri dari tabel koleksi buku yang menyimpan informasi seperti:
 ## Author
 
 Dina Hamala
+
+## Screenshots
+### Halaman Utama
+![Home](screenshots/home.png)
+
+### Tambah Buku
+![Create](screenshots/add.png)
+
+### Edit Buku
+![Edit](screenshots/edit.png)
+
+### Hapus Buku
+![Edit](screenshots/delete.png)
